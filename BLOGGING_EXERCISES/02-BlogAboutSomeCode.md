@@ -1,29 +1,38 @@
-# Blog about some code
+# Blogging Exercise 2: Code & Computational Tasks
 
-* **Goal**: Understand a piece of code used by the Whitaker lab well enough to explain it to others
-* **Timeline**: Within the first three weeks of you joining the lab
-* **Length**: Approximately 500 words, but possibly accompanied by a jupyter notebook
+* **Goal:** Gain confidence running, documenting, and explaining a piece of scientific code.
+* **Timeline:** Within your first three weeks of joining the lab.
+* **Format:** A Jupyter notebook or a short Markdown guide (approx. 500 words) detailing a computational script or workflow.
 
-The goal of this blogging exercise is to ensure that you have confidence in running a piece of code that is used (or will be used) in your work at the Whitaker lab.
+---
 
-The brief is very broad: **get a piece of code running and write about 500 words explaining how to use it**.
+## The Brief
+In the Chemical Data Lab, we write code to analyze structures, query chemical databases, and run molecular simulations. The brief for this exercise is to **get a specific script or library running, test it on a sample dataset, and write a tutorial-style explanation of how it works.**
 
-Your target audience is *you*.
+Your target audience is a new student who has never used this tool before. Focus on what was tricky, how you solved it, and what the code achieves.
 
-The reason this blog is so close to the beginning of your time in the Whitaker lab is that it becomes much harder to write blogs about getting started once you're a bit more expert.
+### Suggested Coding Projects
+1. **MolMeDB API Query (Cheminformatics):**
+   * Write a Python script to query the MolMeDB REST API for a set of compounds (e.g., caffeine, ibuprofen).
+   * Retrieve their membrane partition coefficients ($K_{ow}$) and plot them using `matplotlib` or `seaborn`.
+2. **RDKit Property Calculator (Cheminformatics):**
+   * Use the RDKit library in a Jupyter notebook to read a list of SMILES strings.
+   * Calculate chemical descriptors (e.g., Lipinski's Rule of 5 properties, polar surface area) and render their 2D chemical structures.
+3. **PyMOL Structure Analysis (Structural Bioinformatics):**
+   * Write a short PyMOL script (`.pml` or python script) to load a cytochrome P450 structure from the PDB.
+   * Highlight its heme group, locate the active site, and measure the distance between the iron atom and a bound ligand.
+4. **Simulation Trajectory Parser (Molecular Dynamics):**
+   * Write a script using `MDAnalysis` or `MDTraj` to read a GROMACS trajectory (`.xtc` / `.gro` files) and calculate the root-mean-square deviation (RMSD) over time.
 
-I'd recommend making notes about what the blog post is going to contain from the very first time that you try to use the code!
-Think about trying to make the next person's life easier :raised_hands:
+---
 
-Try to make sure your blog covers these points:
+## Key Questions to Answer in Your Write-Up
+* **Why:** What is the purpose of this script, and how does it support our research?
+* **Setup:** What packages and dependencies did you need to install (e.g., using `pip`, `conda`, or `uv`)?
+* **Execution:** Show a step-by-step example with input code and output data/plots.
+* **Takeaway:** What did you learn, and how can this script be reused in the future?
 
-* Why would you want to run this piece of code?
-* What did you need to know to get the code running?
-* What does the code do to your data?
+---
 
-You might find that creating a jupyter notebook to go along with the blog is useful, along with sharing some screenshots of the different steps.
-
-To upload your blog post, follow the instructions in the [`_posts/blog/template.md`](https://github.com/WhitakerLab/whitakerlab.github.io/blob/master/_posts/blog/template.md) in the [whitakerlab.github.io website repo](https://github.com/WhitakerLab/whitakerlab.github.io).
-
-The blog should be submitted as file in the [`_posts/blog`](https://github.com/WhitakerLab/whitakerlab.github.io/tree/master/_posts/blog) directory via a pull request.
-
+## How to Submit
+Upload your Jupyter notebook or markdown file to your directory in `meetings/your-name/` and push it to GitHub, or share it in MS Teams.

@@ -1,6 +1,6 @@
 # Mentorship Resources
 
-These are some great resources that have influenced Kirstie's mentorship style. She might not implement them perfectly but they're here to help us all be on the same page as we work together.
+These are some great resources that have influenced Karel's mentorship style. He might not implement them perfectly, but they're here to help us all be on the same page as we work together.
 
 Alon, U. (2010). How to Build a Motivated Research Group. Molecular Cell, 37(2), 151–152. [DOI: 10.1016/j.molcel.2010.01.011](https://doi.org/10.1016/j.molcel.2010.01.011)
 

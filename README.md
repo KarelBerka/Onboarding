@@ -1,51 +1,72 @@
-# Onboarding
+# Chemical Data Lab Onboarding
 
-OH MY GOODNESS! You're here! You're really here!
+Welcome to the **Chemical Data Lab (CDL)** at the **Department of Physical Chemistry (KFC), Palacký University Olomouc (UPOL)**! 🧪💻✨
 
-How cool is that?! :sparkles: :balloon: :cake:
+We are thrilled to have you join our research group. This repository is your starting point for getting set up and integrated into our daily workflows, communication channels, and scientific research.
 
-![](https://media.giphy.com/media/wAVA7WdV2jita/giphy.gif)
+> [!NOTE]
+> This onboarding repository is designed to be interactive. As you work through the setup, tutorials, and reading lists, you will modify files, write scripts, and log your progress.
 
-This is your jumping off point to get you up and running with your work in (or collaboration with) the Whitaker Lab.
+---
 
-(It's currently a work in progress...I really hope you can shape and improve this onboarding experience as you learn!)
+## Welcome to the Lab!
 
-## Why onboarding
+The Chemical Data Lab, led by **prof. Karel Berka**, operates at the intersection of physical chemistry, structural bioinformatics, and cheminformatics. Our research focuses on:
+* **Molecules on Membranes (MolMeDB):** Developing databases and computational models for drug-membrane interactions.
+* **Protein Channels & Tunnels:** Studying transport pathways in enzymes and proteins (using MOLEonline and ChannelsDB).
+* **Drug Design:** Molecular docking, molecular dynamics, and virtual screening.
+* **FAIR Data & Reproducibility:** Active involvement in ELIXIR-CZ and the ReproducibiliTea initiative.
 
-You're a person! (So am I!) We're social creatures (to varying degrees.) The traditional first day practice of giving new lab members a pile of papers and say "go read these and understand them" is rather isolating. It's difficult to read scientific papers in a field you don't know, and possibly isn't the best use of your first few days and weeks.
+---
 
-In this repository we're going to work through some tutorials, blogging exercises, reproducing some figures from papers and....so much more :wink:.
+## Your First Week Checklist
 
-## Your first day
+To get started, work through the following steps during your first few days:
 
-* Read the Whitaker Lab [code of conduct](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md). Chat with Kirstie if you have any questions about lab norms or would like to add or change anything in the code of conduct.
-* Ask Kirstie to invite you to join the Alan Turing [slack channel](https://alan-turing-institute.slack.com).
-* Set up the weekly meetings file by following the guidelines in the [Setting-up-your-weekly-meetings.md](https://github.com/WhitakerLab/Onboarding/blob/master/Setting-up-your-weekly-meetings.md) file.
+1. **Academic & IT Registration:**
+   * Log into the [UPOL Portal](https://portal.upol.cz/) and verify your STAG student/employee account.
+   * Obtain your student (ISIC) or employee card at the UPOL Card Centre.
+   * Configure **eduroam** Wi-Fi and the **UPOL VPN** (see [FAQs.md](FAQs.md) for details).
+2. **Communication Setup:**
+   * Ensure you are added to the lab's **MS Teams** space and relevant channels.
+   * Create your weekly progress meetings file by following [Setting-up-your-weekly-meetings.md](Setting-up-your-weekly-meetings.md).
+3. **Explore Lab Guidelines:**
+   * Review [Lab-meetings.md](Lab-meetings.md) to understand how we conduct our weekly meetings.
+   * Browse our curated [READING_LISTS/](READING_LISTS/) to familiarize yourself with the literature for your specific research area.
 
-## Lab meetings
+---
 
-The Whitaker Lab meetings are approximately weekly from 3pm to 4pm on Thursdays.
-Members of the Whitaker Lab are expected to join if they are able and to contribute to the agenda in advance of the meeting *whether they are able to attend or not*.
+## Lab Meetings
 
-* Please read the [lab meetings](Lab-meetings.md) guide for more details.
-* You can find the specific dates of the meetings in the [Whitaker lab's google calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com).
+The Chemical Data Lab meets weekly:
+* **Time:** **Fridays at 8:30 AM**
+* **Location:** **MS Teams** video call (and physical room 3.009 at KFC UPOL when hybrid).
+* **Details:** Read the [Lab Meetings Guide](Lab-meetings.md) to see how to contribute to the agenda and participate.
 
-## Blogging exercises
+---
 
-One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
+## Practical Onboarding Exercises
 
-We'll set a schedule for each blog, but please plan on working through all four within the first few months of your time at the Turing.
+To build confidence with our tools, data, and team, complete the following four hands-on exercises within your first month:
 
-0. [Introducing](BLOGGING_EXERCISES/00-Introducing.md)
-1. [Meet 3 people at the Turing Institute](BLOGGING_EXERCISES/01-MeetThreePeople.md)
-2. [Blog about some code](BLOGGING_EXERCISES/02-BlogAboutSomeCode.md)
-3. [Contribute to an open source project](BLOGGING_EXERCISES/03-OpenSourceContribution.md)
-4. [Goal setting](BLOGGING_EXERCISES/04-GoalSetting.md)
+0. [Introducing Yourself](BLOGGING_EXERCISES/00-Introducing.md) - Introduce yourself to the lab on MS Teams.
+1. [Meet 3 People](BLOGGING_EXERCISES/01-MeetThreePeople.md) - Learn about other members in the department.
+2. [Interact with MolMeDB API](BLOGGING_EXERCISES/02-BlogAboutSomeCode.md) - Write a short script to fetch membrane permeability data.
+3. [Contribute to a Lab Workflow](BLOGGING_EXERCISES/03-OpenSourceContribution.md) - Publish a workflow or script on GitHub/WorkflowHub.
 
-## Keep pushing
+---
 
-The only mandatory reading for this onboarding is [Matt Might's](http://matt.might.net/) [Illustrated Guide to a PhD](http://matt.might.net/articles/phd-school-in-pictures/).
-It's a beautiful description of the frustration and wonder of conducting reasearch.
-Don't forget, whenever things are hard, ***keep pushing***.
+## Reading Lists
 
-![](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
+We have curated lists of essential scientific papers, tutorials, and books to help you get up to speed with our research:
+* [Computational Chemistry](READING_LISTS/ComputationalChemistry.md) (Molecular Modeling, MD, Docking)
+* [Cheminformatics & Databases](READING_LISTS/CheminformaticsAndDatabases.md) (MolMeDB, ChannelsDB, FAIR Data, ELIXIR)
+* [Reproducibility & Open Science](READING_LISTS/ReproducibilityAndOpenScience.md) (Open Workflows, ReproducibiliTea)
+
+---
+
+## Keep Pushing!
+
+Research can be both incredibly rewarding and challenging. The only mandatory reading for this onboarding is Matt Might's [Illustrated Guide to a PhD](http://matt.might.net/articles/phd-school-in-pictures/). It beautifully describes the boundary of human knowledge and the perseverance needed to expand it.
+
+Whenever you encounter a tough bug or a difficult simulation, remember: **keep pushing!**

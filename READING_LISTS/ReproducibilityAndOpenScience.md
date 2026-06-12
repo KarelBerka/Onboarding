@@ -64,3 +64,15 @@ These articles take the view that *you* will benefit most strongly from working 
 * Eaves, D. (2009). [Structurelessness, feminism and open: what open advocates can learn from second wave feminists](https://eaves.ca/2009/07/06/structurelessness-feminism-and-open/).
 
 * Albornoz, D. (2018). [Reimagining Open Science Through a Feminist Lens](https://medium.com/@denalbz/reimagining-open-science-through-a-feminist-lens-546f3d10fa65)
+
+
+### Local & Specialized Open Science Resources
+
+* **ReproducibiliTea Olomouc:** 
+  * The local chapter of the international ReproducibiliTea journal club, co-organized by prof. Karel Berka at UPOL. We meet regularly to discuss open science practices, reproducibility issues, and how to improve our research workflows.
+  * Check the [ReproducibiliTea Olomouc home](https://reproducibilitea.org/) or ask Karel for current meeting coordinates.
+
+* **WorkflowHub & Scientific Workflows:**
+  * WorkflowHub is a registry for sharing scientific workflows. Our lab publishes workflows there to ensure that our computational pipelines (e.g., for parsing database records, running molecular simulations) are fully transparent and reusable.
+  * Explore the [Chemical Data Lab workflows on WorkflowHub](https://workflowhub.eu/).
+

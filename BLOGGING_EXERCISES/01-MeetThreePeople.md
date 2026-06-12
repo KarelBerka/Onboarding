@@ -1,27 +1,29 @@
-# Meet Three People Blog
+# Blogging Exercise 1: Meet Three People
 
-* **Goal**: Meet people and start to build your community
-* **Timeline**: Within the first week of you joining the lab
-* **Length**: Approximately 500 words
+* **Goal:** Connect with departmental colleagues and understand the broader UPOL scientific community
+* **Timeline:** Within your first two weeks of joining the lab
+* **Format:** A short write-up (approx. 500 words) to be added to your weekly meetings log or shared in our MS Teams channel.
 
-The goal of this blogging exercise is to help you build some connections with the researchers and staff members at the Alan Turing Institute.
+---
 
-The brief is very simple: **talk to three people and write about 500 words about those conversations**.
+## The Brief
+Starting in a new lab can sometimes feel isolating. This exercise is designed to help you branch out, meet colleagues in the department, and see what other research is happening around you.
 
-You can ask whatever questions you'd like, and you're welcome to chat with anyone you come across (except for current members of the Whitaker lab).
+Your task: **Introduce yourself and have a brief chat (10–15 mins) with three people in our department or faculty (excluding current Chemical Data Lab members). Write a short summary of what you learned.**
 
-Some suggested questions could be:
+### Who Can You Talk To?
+* **Experimental Physical Chemists:** Ask them about their lab equipment, what systems they measure, and how they analyze their raw data.
+* **Researchers at CATRIN (RCPTM):** Our department collaborates closely with CATRIN researchers working on nanomaterials, biophysics, and carbon dots.
+* **Department Secretaries & Technical Staff:** Ask them about building logistics, safety, or administrative processes.
+* **Other Computational Chemists:** Learn about their simulation models (e.g., QM calculations, polymer dynamics).
 
-* What is data science to you?
-* What are your research questions?
-* What do you like about working at the Turing Institute?
-* Who is your target audience?
-* What are the most exciting parts of your job?
+### Suggested Questions to Ask
+* What systems or molecules are you currently investigating?
+* What experimental or computational methods do you specialize in?
+* How does physical chemistry or data science connect to your daily research?
+* What do you enjoy most about working at the Faculty of Science at UPOL?
 
-***You don't have to ask all of these questions!*** They're just suggestions to get you started.
+---
 
-It would be great to have some pictures of the people you speak with (remember to ask their permission!) and a little of your own voice and experience in the blog.
-
-To upload your blog post, follow the instructions in the [`_posts/blog/template.md`](https://github.com/WhitakerLab/whitakerlab.github.io/blob/master/_posts/blog/template.md) in the [whitakerlab.github.io website repo](https://github.com/WhitakerLab/whitakerlab.github.io).
-
-The blog should be submitted as file in the [`_posts/blog`](https://github.com/WhitakerLab/whitakerlab.github.io/tree/master/_posts/blog) directory via a pull request.
+## How to Submit
+Write a summary of your three conversations (including their names, roles, and a brief summary of their work) and include it in your next weekly progress update or post it in the MS Teams chat.

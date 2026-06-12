@@ -1,33 +1,25 @@
-# Introducing
+# Blogging Exercise 0: Introducing Yourself
 
-* **Goal**: Introduce yourself
-* **Timeline**: Within the first week of you joining the lab
-* **Length**: Approximately 500 words
+* **Goal:** Introduce yourself to the lab group
+* **Timeline:** Within your first week of joining the lab
+* **Format:** A short post/message (approx. 300–500 words) shared in the **MS Teams General channel** (or published as a markdown post in our progress folder if requested).
 
-The goal of this blogging project is to make sure that you're featured on the Whitaker Lab website.
+---
 
-The brief is very simple: **write a little about yourself**.
+## The Brief
+We want to learn more about you! Write a short introduction introducing yourself to the team. 
 
-You can cover anything you'd like.
-Make the blog as personal as you'd like.
+Feel free to be as formal or informal as you like. We highly recommend including a picture or two (e.g., of yourself, a hobby, or your favorite setup/pet).
 
-Some suggested topics for you to cover:
+### Suggested Topics to Cover
+* **Academic Background:** Where did you study, what was your major, and what brought you to UPOL?
+* **Research Interests:** What topics in computational chemistry, databases, or molecular modeling excite you?
+* **Your Project:** What specific question or project will you be working on in the Chemical Data Lab?
+* **Personal Touch:** What is your favorite hobby, book, video game, or sport?
 
-* Your academic background
-* Where you grew up
-* The research question you're interested in
-* A problem in the world that you're looking to solve
-* Your favourite hobby
-* What you're hoping to do in the Whitaker lab
+---
 
-***You don't have to cover all these points!***
-They're just suggestions to get you started.
-
-It would be great to have a couple of pictures in the blog.
-Feel free to be as creative as you'd like.
-
-To upload your blog post, follow the instructions in the [`_posts/blog/template.md`](https://github.com/WhitakerLab/whitakerlab.github.io/blob/master/_posts/blog/template.md) in the [whitakerlab.github.io website repo](https://github.com/WhitakerLab/whitakerlab.github.io).
-
-The blog should be submitted as file in the [`_posts/blog`](https://github.com/WhitakerLab/whitakerlab.github.io/tree/master/_posts/blog) directory via a pull request.
-
-If this is your first blog, you'll also have to add yourself to the [`_/data/authors.yml`](https://github.com/WhitakerLab/whitakerlab.github.io/blob/master/_data/authors.yml) file.
+## How to Submit
+1. Draft your introduction in markdown format or write it directly.
+2. Share it in the **MS Teams General Channel** as a new post to say hello to everyone!
+3. (Optional) If you are maintaining a personal blog or web portfolio, publish it there and share the link with the team.
